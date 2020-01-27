@@ -1,0 +1,12 @@
+D:\POC\Poker\bin\Release\netcoreapp3.0\Poker.exe
+D:\POC\Poker\bin\Release\netcoreapp3.0\Poker.deps.json
+D:\POC\Poker\bin\Release\netcoreapp3.0\Poker.runtimeconfig.json
+D:\POC\Poker\bin\Release\netcoreapp3.0\Poker.runtimeconfig.dev.json
+D:\POC\Poker\bin\Release\netcoreapp3.0\Poker.dll
+D:\POC\Poker\bin\Release\netcoreapp3.0\Poker.pdb
+D:\POC\Poker\bin\Release\netcoreapp3.0\Enums.NET.dll
+D:\POC\Poker\obj\Release\netcoreapp3.0\Poker.AssemblyInfoInputs.cache
+D:\POC\Poker\obj\Release\netcoreapp3.0\Poker.AssemblyInfo.cs
+D:\POC\Poker\obj\Release\netcoreapp3.0\Poker.csproj.CopyComplete
+D:\POC\Poker\obj\Release\netcoreapp3.0\Poker.dll
+D:\POC\Poker\obj\Release\netcoreapp3.0\Poker.pdb
